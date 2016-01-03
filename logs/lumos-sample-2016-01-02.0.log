@@ -1,0 +1,23 @@
+01:20:59.020 [main] ERROR user - !!!
+01:21:00.904 [main] INFO  org.xnio - XNIO version 3.3.0.Final
+01:21:00.976 [main] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.3.0.Final
+01:21:01.031 [main] WARN  io.undertow.websockets.jsr - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+01:21:01.087 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context /
+01:21:01.666 [main] ERROR user - !!!
+01:21:01.680 [main] WARN  io.undertow.websockets.jsr - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+01:21:01.682 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context /
+01:21:02.194 [main] ERROR user - !!!
+01:21:02.206 [main] WARN  io.undertow.websockets.jsr - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+01:21:02.209 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context /
+01:21:02.719 [main] ERROR user - !!!
+01:21:02.729 [main] WARN  io.undertow.websockets.jsr - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+01:21:02.731 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context /
+01:21:03.241 [main] ERROR user - !!!
+01:21:03.253 [main] WARN  io.undertow.websockets.jsr - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+01:21:03.255 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context /
+01:21:03.767 [main] ERROR user - !!!
+01:21:03.779 [main] WARN  io.undertow.websockets.jsr - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+01:21:03.780 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context /
+01:21:04.292 [main] ERROR user - !!!
+01:21:04.304 [main] WARN  io.undertow.websockets.jsr - UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+01:21:04.306 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context /
